@@ -12,7 +12,7 @@ dependencies:
   - ipython_genutils==0.2
   - json5==0.9
   - jsonschema==4.4
-  - matplotlib==3.5
+  - matplotlib==3.4
   - matplotlib-inline==0.1
   - numpy==1.23
   - python==3.9
